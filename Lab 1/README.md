@@ -24,9 +24,8 @@ Task 2: task2.js
 <img width="773" height="535" alt="image" src="https://github.com/user-attachments/assets/6a8dc64c-1a78-42f8-aafa-0225b9eb6618" />
 
 
-<img width="733" height="197" alt="image" src="https://github.com/user-attachments/assets/b8b87923-5b7f-4825-9b2f-4a1fe5501c52" />
-
-<img width="725" height="165" alt="image" src="https://github.com/user-attachments/assets/2074e6da-a168-4b86-b695-4d4929a9b712" />
+Task 3: task3.js
+<img width="706" height="365" alt="image" src="https://github.com/user-attachments/assets/24e3c8fc-40ab-416f-8904-85a3903a9bc5" />
 
 6. Input
 Task 1: No keyboard input; the script prints a fixed message.
