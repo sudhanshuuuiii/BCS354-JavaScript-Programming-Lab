@@ -15,8 +15,9 @@ JavaScript provides arithmetic operators such as addition, subtraction, multipli
 
 5. Program / Queries / Commands
 Task 1: task1.js
+<img width="510" height="417" alt="image" src="https://github.com/user-attachments/assets/38f4e8e2-edad-4959-9a11-04f2dca36523" />
 
-Lab 2/OUTPUT 1.png
+
 Task 2: task2.js
 /*
 Name: LOKESH SHUKLA
