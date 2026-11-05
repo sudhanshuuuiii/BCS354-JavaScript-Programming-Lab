@@ -19,6 +19,7 @@ JavaScript is a programming language used to make web pages interactive. It can 
 
 
 Task 2: task2.js
+<img width="773" height="535" alt="image" src="https://github.com/user-attachments/assets/6a8dc64c-1a78-42f8-aafa-0225b9eb6618" />
 
 Task 3: task3.js
 
