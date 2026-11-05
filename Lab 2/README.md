@@ -17,24 +17,9 @@ JavaScript provides arithmetic operators such as addition, subtraction, multipli
 Task 1: task1.js
 <img width="510" height="417" alt="image" src="https://github.com/user-attachments/assets/38f4e8e2-edad-4959-9a11-04f2dca36523" />
 
-
 Task 2: task2.js
-/*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
-Assignment No: 2
-Task No: 2
-*/
+<img width="482" height="413" alt="image" src="https://github.com/user-attachments/assets/cde39eac-dbdf-4933-92bc-435aaa2ffcab" />
 
-let text = "12";
-let number = Number(text);
-
-console.log(number + 5);
-
-let value = 7;
-let textValue = String(value);
-
-console.log(textValue + "3");
 Task 3: task3.js
 /*
 Name: LOKESH SHUKLA
