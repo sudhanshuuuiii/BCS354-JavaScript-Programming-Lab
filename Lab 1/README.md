@@ -15,7 +15,7 @@ JavaScript is a programming language used to make web pages interactive. It can 
 
 5. Program / Queries / Commands
    
-Task 3: task1.html
+Task 1: task1.html
 <img width="845" height="369" alt="image" src="https://github.com/user-attachments/assets/2e29baea-6342-4ac5-83da-dae06b5e5b5a" />
 
 
