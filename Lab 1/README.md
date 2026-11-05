@@ -14,7 +14,8 @@ Web browser: Microsoft Edge or Google Chrome for .html programs and DOM tasks
 JavaScript is a programming language used to make web pages interactive. It can run inside web browsers and with Node.js. Variables are declared using "let" and "const". The "console.log()" method displays output, while the "typeof" operator identifies the data type of a value.
 
 5. Program / Queries / Commands
-   Task 3: task1.html
+   
+Task 3: task1.html
 <img width="845" height="369" alt="image" src="https://github.com/user-attachments/assets/2e29baea-6342-4ac5-83da-dae06b5e5b5a" />
 
 
@@ -24,6 +25,7 @@ Task 2: task2.js
 
 Task 3: task3.js
 <img width="733" height="197" alt="image" src="https://github.com/user-attachments/assets/b8b87923-5b7f-4825-9b2f-4a1fe5501c52" />
+<img width="725" height="165" alt="image" src="https://github.com/user-attachments/assets/2074e6da-a168-4b86-b695-4d4929a9b712" />
 
 6. Input
 Task 1: No keyboard input; the script prints a fixed message.
