@@ -25,6 +25,7 @@ Task 2: task2.js
 
 Task 3: task3.js
 <img width="733" height="197" alt="image" src="https://github.com/user-attachments/assets/b8b87923-5b7f-4825-9b2f-4a1fe5501c52" />
+
 <img width="725" height="165" alt="image" src="https://github.com/user-attachments/assets/2074e6da-a168-4b86-b695-4d4929a9b712" />
 
 6. Input
