@@ -14,51 +14,14 @@ Web browser: Microsoft Edge or Google Chrome for .html programs and DOM tasks
 JavaScript is a programming language used to make web pages interactive. It can run inside web browsers and with Node.js. Variables are declared using "let" and "const". The "console.log()" method displays output, while the "typeof" operator identifies the data type of a value.
 
 5. Program / Queries / Commands
-Task 1: task1.html
-<!--
-Name: LOKESH SHUKLA
-Roll No: 2510303281
-Assignment No: 1
-Task No: 1
--->
+<img width="845" height="369" alt="image" src="https://github.com/user-attachments/assets/2e29baea-6342-4ac5-83da-dae06b5e5b5a" />
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My First JavaScript</title>
-</head>
-<body>
 
-    <h1>My First JavaScript Program</h1>
 
-    <script>
-        console.log("Hello from the script");
-    </script>
-
-</body>
-</html>
 Task 2: task2.js
-/*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
-Assignment No: 1
-Task No: 2
-*/
 
-const schoolName = "Sample College";
-let year = 2026;
-
-console.log(schoolName);
-console.log(year);
 Task 3: task3.js
-/*Name: LOKESH SHUKLA
-Roll No: 2510303281
-Assignment No: 1
-Task No: 3
-*/
-console.log(typeof "hello");
-console.log(typeof 7);
-console.log(typeof true);
+
 6. Input
 Task 1: No keyboard input; the script prints a fixed message.
 
