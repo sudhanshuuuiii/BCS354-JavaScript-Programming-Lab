@@ -162,7 +162,7 @@ Task No: 4
 
 - **Task 1:** Browser action: click “Change text”.
 
-- **Task 2:** Names tested: "Lokesh" and an empty string.
+- **Task 2:** Names tested: "Sudhanshu" and an empty string.
 
 - **Task 3:** Browser input: type a note in the text box and click Save.
 
