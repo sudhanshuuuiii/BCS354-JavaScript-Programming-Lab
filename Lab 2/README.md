@@ -21,30 +21,9 @@ Task 2: task2.js
 <img width="482" height="413" alt="image" src="https://github.com/user-attachments/assets/cde39eac-dbdf-4933-92bc-435aaa2ffcab" />
 
 Task 3: task3.js
-/*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
-Assignment No: 2
-Task No: 3
-*/
 
-let a = 8;
-let b = 4;
-let operator = "+";
+<img width="515" height="414" alt="image" src="https://github.com/user-attachments/assets/b0fbb600-9b40-4742-abaa-66fc4c067acf" />
 
-if (operator === "+") {
-    console.log("Sum:", a + b);
-} else if (operator === "-") {
-    console.log("Difference:", a - b);
-}
-
-operator = "-";
-
-if (operator === "+") {
-    console.log("Sum:", a + b);
-} else if (operator === "-") {
-    console.log("Difference:", a - b);
-}
 6. Input
 Task 1: a = 17; b = 5.
 
