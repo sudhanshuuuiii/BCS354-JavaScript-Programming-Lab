@@ -26,7 +26,7 @@ Assignment No: 3
 Task No: 1
 */
 
-let marks = 72;
+let marks = 71;
 
 if (marks >= 75) {
     console.log("Grade A");
