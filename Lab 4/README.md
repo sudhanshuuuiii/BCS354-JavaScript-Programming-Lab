@@ -30,7 +30,7 @@ function greet(name) {
     return "Hello, " + name;
 }
 
-console.log(greet("Sudhanshu"));
+console.log(greet("Sudhanshu Singh"));
 ```
 
 ### Task 2: `task2.js`
@@ -67,7 +67,7 @@ console.log(billWithTax(100));
 
 ## 6. Input
 
-- **Task 1:** name = "Lokesh" (value used in the task file).
+- **Task 1:** name = "Sudhanshu Singh" (value used in the task file).
 
 - **Task 2:** square(6).
 
@@ -77,7 +77,7 @@ console.log(billWithTax(100));
 
 ### Task 1: Function with a Return Value
 ```text
-Hello, Sudhanshu 
+Hello, Sudhanshu Singh
 ```
 
 ### Task 2: Arrow Function
