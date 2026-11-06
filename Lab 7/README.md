@@ -20,8 +20,8 @@ Constructor functions are used to create multiple objects with similar propertie
 ### Task 1: `task1.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 7
 Task No: 1
 */
@@ -31,7 +31,7 @@ function Student(name, marks) {
     this.marks = marks;
 }
 
-let student1 = new Student("LOKESH", 88);
+let student1 = new Student("Sudhanshu", 88);
 
 console.log(student1.name);
 console.log(student1.marks);
@@ -40,8 +40,8 @@ console.log(student1.marks);
 ### Task 2: `task2.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 7
 Task No: 2
 */
@@ -65,8 +65,8 @@ console.log(book1.summary());
 ### Task 3: `task3.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 7
 Task No: 3
 */
