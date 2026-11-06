@@ -84,7 +84,7 @@ Student.prototype.result = function() {
     }
 };
 
-let student1 = new Student("Lokesh", 88);
+let student1 = new Student("Sudhanshu", 88);
 
 console.log(student1.result());
 ```
