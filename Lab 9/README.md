@@ -66,7 +66,7 @@ function validateForm(name) {
     return errors;
 }
 
-console.log(validateForm("Sudhanshu"));
+console.log(validateForm("Sudhanshu Singh"));
 console.log(validateForm(""));
 ```
 
@@ -162,7 +162,7 @@ Task No: 4
 
 - **Task 1:** Browser action: click “Change text”.
 
-- **Task 2:** Names tested: "Sudhanshu" and an empty string.
+- **Task 2:** Names tested: "Sudhanshu Singh" and an empty string.
 
 - **Task 3:** Browser input: type a note in the text box and click Save.
 
