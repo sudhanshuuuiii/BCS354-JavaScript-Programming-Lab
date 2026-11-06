@@ -66,7 +66,7 @@ function validateForm(name) {
     return errors;
 }
 
-console.log(validateForm("Lokesh"));
+console.log(validateForm("Sudhanshu"));
 console.log(validateForm(""));
 ```
 
