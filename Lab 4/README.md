@@ -20,8 +20,8 @@ Functions are reusable blocks of code that perform specific tasks. They can acce
 ### Task 1: `task1.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 4
 Task No: 1
 */
@@ -30,14 +30,14 @@ function greet(name) {
     return "Hello, " + name;
 }
 
-console.log(greet("Lokesh"));
+console.log(greet("Sudhanshu"));
 ```
 
 ### Task 2: `task2.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 4
 Task No: 2
 */
@@ -52,8 +52,8 @@ console.log(square(6));
 ### Task 3: `task3.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 4
 Task No: 3
 */
@@ -77,7 +77,7 @@ console.log(billWithTax(100));
 
 ### Task 1: Function with a Return Value
 ```text
-Hello, Lokesh
+Hello, Sudhanshu 
 ```
 
 ### Task 2: Arrow Function
