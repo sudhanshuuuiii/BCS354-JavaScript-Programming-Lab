@@ -43,7 +43,7 @@ class Teacher extends Person {
     }
 }
 
-let teacher1 = new Teacher("Sudhanshu", "Maths");
+let teacher1 = new Teacher("Sudhanshu Singh", "Maths");
 
 console.log(teacher1.greet());
 ```
@@ -105,7 +105,7 @@ console.log(car.start());
 
 ## 6. Input
 
-- **Task 1:** Teacher("Sudhanshu "Maths").
+- **Task 1:** Teacher("Sudhanshu Singh"Maths").
 
 - **Task 2:** Locker PIN = 1234; test values = 1111 and 1234.
 
@@ -115,7 +115,7 @@ console.log(car.start());
 
 ### Task 1: Inheritance with Person and Teacher
 ```text
-Hi, I am Sudhanshu
+Hi, I am Sudhanshu Singh
 ```
 
 ### Task 2: Locker PIN Check
