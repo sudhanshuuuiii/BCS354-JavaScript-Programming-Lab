@@ -91,17 +91,16 @@ console.log(student1.result());
 
 ## 6. Input
 
-- **Task 1:** Student("LOKESH", 88).
+- **Task 1:** Student("Sudhanshu", 88).
 
 - **Task 2:** title = "Algorithms"; pages = 320.
 
-- **Task 3:** Student("Lokesh", 88).
-
+- **Task 3:** Prototype Result; Pass
 ## 7. Output
 
 ### Task 1: Constructor Function
 ```text
-LOKESH
+Sudhanshu
 88
 ```
 
