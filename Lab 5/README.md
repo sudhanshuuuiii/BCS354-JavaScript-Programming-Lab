@@ -20,8 +20,8 @@ An array is used to store multiple values in a single variable. JavaScript provi
 ### Task 1: `task1.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 5
 Task No: 1
 */
@@ -35,8 +35,8 @@ console.log("First mark:", marks[0]);
 ### Task 2: `task2.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 5
 Task No: 2
 */
@@ -51,8 +51,8 @@ subjects.forEach(function(subject) {
 ### Task 3: `task3.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 5
 Task No: 3
 */
@@ -69,8 +69,8 @@ console.log(passedMarks);
 ### Task 4: `task4.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 5
 Task No: 4
 */
