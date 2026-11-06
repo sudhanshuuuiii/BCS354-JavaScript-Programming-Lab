@@ -27,7 +27,7 @@ Task No: 1
 */
 
 let student = {
-    name: "Sudhanshu",
+    name: "Sudhanshu Singh",
     roll: 12,
     marks: 78
 };
@@ -79,7 +79,7 @@ console.log(roll);
 
 ## 6. Input
 
-- **Task 1:** student = {name: "Sudhanshu", roll: 12, marks: 78}; updated marks = 81.
+- **Task 1:** student = {name: "Sudhanshu Singh", roll: 12, marks: 78}; updated marks = 81.
 
 - **Task 2:** subjects = ["Maths", "Science", "English"].
 
@@ -89,7 +89,7 @@ console.log(roll);
 
 ### Task 1: Read and Update Object Properties
 ```text
-Sudhanshu
+Sudhanshu Singh
 81
 ```
 
