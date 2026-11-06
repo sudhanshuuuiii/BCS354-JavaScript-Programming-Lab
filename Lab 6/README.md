@@ -20,8 +20,8 @@ JSON stands for JavaScript Object Notation. It is a lightweight format used to s
 ### Task 1: `task1.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 6
 Task No: 1
 */
@@ -39,8 +39,8 @@ console.log(jsonText);
 ### Task 2: `task2.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 6
 Task No: 2
 */
@@ -55,8 +55,8 @@ console.log(data.city);
 ### Task 3: `task3.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 6
 Task No: 3
 */
