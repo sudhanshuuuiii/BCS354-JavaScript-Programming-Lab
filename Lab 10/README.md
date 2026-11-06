@@ -20,14 +20,14 @@ Objects store data in the form of key-value pairs. Their properties can be acces
 ### Task 1: `task1.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 10
 Task No: 1
 */
 
 let student = {
-    name: "Lokesh",
+    name: "Sudhanshu",
     roll: 12,
     marks: 78
 };
@@ -42,8 +42,8 @@ console.log(student.marks);
 ### Task 2: `task2.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 10
 Task No: 2
 */
@@ -59,14 +59,14 @@ console.log(second);
 ### Task 3: `task3.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 10
 Task No: 3
 */
 
 let student = {
-    name: "Lokesh",
+    name: "Sudhanshu",
     roll: 12,
     marks: 81
 };
@@ -79,17 +79,17 @@ console.log(roll);
 
 ## 6. Input
 
-- **Task 1:** student = {name: "Lokesh", roll: 12, marks: 78}; updated marks = 81.
+- **Task 1:** student = {name: "Sudhanshu", roll: 12, marks: 78}; updated marks = 81.
 
 - **Task 2:** subjects = ["Maths", "Science", "English"].
 
-- **Task 3:** student = {name: "Lokesh", roll: 12, marks: 81}.
+- **Task 3:** student = {name: "Sudhamshu", roll: 12, marks: 81}.
 
 ## 7. Output
 
 ### Task 1: Read and Update Object Properties
 ```text
-Lokesh
+Sudhanshu
 81
 ```
 
@@ -101,7 +101,7 @@ Science
 
 ### Task 3: Object Destructuring
 ```text
-Lokesh
+Sudhanshu
 12
 ```
 
