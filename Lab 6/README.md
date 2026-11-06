@@ -27,7 +27,7 @@ Task No: 1
 */
 
 let student = {
-    name: "Rohan",
+    name: "Rohani",
     marks: [70, 80]
 };
 
@@ -73,7 +73,7 @@ try {
 
 ## 6. Input
 
-- **Task 1:** name = "Rohan"; marks = [70, 80].
+- **Task 1:** name = "Rohani"; marks = [70, 80].
 
 - **Task 2:** JSON text: {"city":"Pune","pin":411001}.
 
@@ -83,7 +83,7 @@ try {
 
 ### Task 1: Object to JSON Text
 ```text
-{"name":"Rohan","marks":[70,80]}
+{"name":"Rohani","marks":[70,80]}
 ```
 
 ### Task 2: JSON Text to Object
