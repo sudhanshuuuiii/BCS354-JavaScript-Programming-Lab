@@ -26,7 +26,7 @@ Assignment No: 5
 Task No: 1
 */
 
-let marks = [72, 85, 64, 90];
+let marks = [72, 85, 65, 90];
 
 console.log("Number of marks:", marks.length);
 console.log("First mark:", marks[0]);
@@ -85,7 +85,7 @@ console.log(grid[1][2]);
 
 ## 6. Input
 
-- **Task 1:** marks = [72, 85, 64, 90].
+- **Task 1:** marks = [72, 85, 65, 90].
 
 - **Task 2:** subjects = ["Maths", "Science", "English"].
 
