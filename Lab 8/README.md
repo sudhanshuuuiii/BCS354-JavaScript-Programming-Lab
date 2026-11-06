@@ -20,8 +20,8 @@ Inheritance allows one class to use the properties and methods of another class.
 ### Task 1: `task1.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 8
 Task No: 1
 */
@@ -43,7 +43,7 @@ class Teacher extends Person {
     }
 }
 
-let teacher1 = new Teacher("Lokesh", "Maths");
+let teacher1 = new Teacher("Sudhanshu", "Maths");
 
 console.log(teacher1.greet());
 ```
@@ -51,8 +51,8 @@ console.log(teacher1.greet());
 ### Task 2: `task2.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 8
 Task No: 2
 */
@@ -76,8 +76,8 @@ console.log(locker.checkPin(1234));
 ### Task 3: `task3.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 8
 Task No: 3
 */
@@ -105,7 +105,7 @@ console.log(car.start());
 
 ## 6. Input
 
-- **Task 1:** Teacher("Lokesh", "Maths").
+- **Task 1:** Teacher("Sudhanshu "Maths").
 
 - **Task 2:** Locker PIN = 1234; test values = 1111 and 1234.
 
@@ -115,7 +115,7 @@ console.log(car.start());
 
 ### Task 1: Inheritance with Person and Teacher
 ```text
-Hi, I am Lokesh
+Hi, I am Sudhanshu
 ```
 
 ### Task 2: Locker PIN Check
