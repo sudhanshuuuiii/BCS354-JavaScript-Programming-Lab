@@ -31,7 +31,7 @@ function Student(name, marks) {
     this.marks = marks;
 }
 
-let student1 = new Student("Sudhanshu", 88);
+let student1 = new Student("Sudhanshu Singh", 88);
 
 console.log(student1.name);
 console.log(student1.marks);
@@ -91,7 +91,7 @@ console.log(student1.result());
 
 ## 6. Input
 
-- **Task 1:** Student("Sudhanshu", 88).
+- **Task 1:** Student("Sudhanshu Singh", 88).
 
 - **Task 2:** title = "Algorithms"; pages = 320.
 
@@ -100,7 +100,7 @@ console.log(student1.result());
 
 ### Task 1: Constructor Function
 ```text
-Sudhanshu
+Sudhanshu Singh
 88
 ```
 
