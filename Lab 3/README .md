@@ -20,8 +20,8 @@ Conditional statements help a program make decisions based on conditions. The "i
 ### Task 1: `task1.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 3
 Task No: 1
 */
@@ -40,8 +40,8 @@ if (marks >= 75) {
 ### Task 2: `task2.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 3
 Task No: 2
 */
@@ -54,8 +54,8 @@ for (let i = 1; i <= 5; i++) {
 ### Task 3: `task3.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 3
 Task No: 3
 */
