@@ -20,8 +20,8 @@ Scope determines where a variable can be accessed in a program. Global variables
 ### Task 1: `task1.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 11
 Task No: 1
 */
@@ -39,8 +39,8 @@ console.log(level);
 ### Task 2: `task2.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 11
 Task No: 2
 */
@@ -63,8 +63,8 @@ console.log(counter());
 ### Task 3: `task3.js`
 ```javascript
 /*
-Name: LOKESH SHUKLA
-Roll No: 2510303281
+Name: SUDHANSHU SINGH
+Roll No: 2510303511
 Assignment No: 11
 Task No: 3
 */
